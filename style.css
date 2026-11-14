@@ -43,7 +43,7 @@
     gap: 50px;
     
     position: relative;
-    left: 58%;
+    left: 30%;
     }
     header {
     height: 120px;
@@ -65,7 +65,7 @@
     display: flex;
     align-items: center;
     position: relative;
-    right: 6%;
+    left: 1%;
     
     }
     
